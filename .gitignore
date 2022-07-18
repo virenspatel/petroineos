@@ -1,0 +1,13 @@
+/.idea
+**/obj
+**/bin
+**/*.user
+**/*.dbmdl
+**/*.jfm
+/packages
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+nCrunchTemp_*
+*.ncrunchsolution
